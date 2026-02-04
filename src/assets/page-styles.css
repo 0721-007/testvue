@@ -1,0 +1,57 @@
+/* Common White Theme Styles for All Pages */
+.page { animation: fadeIn 0.4s ease; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.page h1 { 
+  font-size: 2rem; 
+  margin-bottom: 20px; 
+  color: #13294B; 
+  font-weight: 700; 
+}
+
+.page .intro {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #FF5F05;
+}
+.page .intro p { line-height: 1.8; color: #4b5563; }
+
+.page .section {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  border: 1px solid #e5e7eb;
+}
+.page .section h2 { color: #13294B; margin-bottom: 15px; font-weight: 600; }
+.page .section p { line-height: 1.8; color: #4b5563; }
+
+.page .stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.page .stat-card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+}
+.page .stat-card h3 { color: #6b7280; font-size: 0.85rem; margin-bottom: 8px; }
+.page .stat-value { color: #13294B; font-size: 1.2rem; font-weight: 700; }
+
+.page .facts-list { list-style: none; padding: 0; }
+.page .facts-list li { 
+  padding: 12px 0; 
+  border-bottom: 1px solid #e5e7eb; 
+  color: #4b5563; 
+}
+.page .facts-list li:last-child { border-bottom: none; }
+.page .facts-list strong { color: #13294B; }

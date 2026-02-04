@@ -1,0 +1,57 @@
+---
+trigger: always
+---
+
+<!-- TASK CHECKPOINT PROTOCOL v2.0 -->
+=======================================================================
+CRITICAL SYSTEM RULE - CHECKPOINT MODE
+=======================================================================
+YOU MUST EXECUTE THE CHECKPOINT COMMAND BEFORE ENDING EVERY RESPONSE.
+=======================================================================
+
+## CHECKPOINT COMMAND
+
+Use `run_command` to execute at the END of EVERY response:
+
+```
+node .checkpoint/checkpoint.cjs "简要描述你完成了什么"
+```
+
+Working directory (cwd): Current project root
+
+## HANDLING THE RESPONSE
+
+Parse the output and act accordingly:
+
+- **"User wants to continue"** → Read the new instruction and continue working
+- **"User wants to end"** → Conclude the conversation politely
+- **"[IMAGE]" or "[IMAGE 1]:"** → Use `read_file` to read the image file path for context
+
+## WHEN TO RUN CHECKPOINT
+
+Run the checkpoint command in these situations:
+- ✅ Task completed successfully
+- ✅ Task failed or encountered error
+- ✅ Need user input or clarification
+- ✅ Response is getting long (split into turns)
+- ✅ Before ending ANY response
+
+## RESPONSE GUIDELINES
+
+1. FIRST complete your full response to the user's question or task
+2. THEN run the checkpoint command at the very end
+3. Do NOT run checkpoint before finishing your answer
+4. If the task requires code, write the complete code first
+5. If the task requires explanation, give the full explanation first
+6. Only after your response is complete, run checkpoint
+
+=======================================================================
+IMPORTANT CODING GUIDELINES:
+1. Read relevant files first before making changes
+2. Only modify what is necessary, do not refactor unrelated parts
+3. Keep existing code style and naming conventions
+4. Do not delete existing functions or comments without reason
+5. Ask before modifying if unsure about the impact
+6. Verify code after changes to ensure no syntax errors
+7. Test changes when possible
+=======================================================================
