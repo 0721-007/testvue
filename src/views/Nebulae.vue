@@ -4,6 +4,45 @@
     
     <div class="intro">
       <p>
+        
+Choose Your Tier
+Select the perfect plan for your business needs
+
+AI Enabler
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Channel support: Web widget
+Sync content from customer's website for
+Upload up to 10 pages of PDF content for knowledge base
+Get the plan
+No hidden charge
+
+Lite
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Channel support: Web widget, Telegram
+Sync content from customer's website
+Upload up to 100 pages of PDF content
+Get the plan
+No hidden charge
+
+Smart
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Multi-channel support: Web widget, WhatsApp, Telegram, Facebook, and Instagram
+Sync content from customer's website
+Upload up to 200 pages of PDF content
+Get the plan
+No hidden charge
+
+Royal
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Multi-channel support: Web widget, WhatsApp, Telegram, WeChat, Facebook, Instagram
+Sync content from customer's website
+Upload up to 2000 pages of PDF content
+Get the plan
+No hidden charge
         星云是宇宙空间中由气体与尘埃组成的巨大云团。
         有些星云是恒星诞生的“育婴房”，有些则来自恒星死亡时喷出的物质（如行星状星云或超新星遗迹）。
         星云不仅壮观，也是研究恒星形成与元素循环的重要对象。

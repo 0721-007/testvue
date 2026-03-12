@@ -4,6 +4,45 @@
     
     <div class="intro">
       <p>
+        
+Choose Your Tier
+Select the perfect plan for your business needs
+
+AI Enabler
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Channel support: Web widget
+Sync content from customer's website for
+Upload up to 10 pages of PDF content for knowledge base
+Get the plan
+No hidden charge
+
+Lite
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Channel support: Web widget, Telegram
+Sync content from customer's website
+Upload up to 100 pages of PDF content
+Get the plan
+No hidden charge
+
+Smart
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Multi-channel support: Web widget, WhatsApp, Telegram, Facebook, and Instagram
+Sync content from customer's website
+Upload up to 200 pages of PDF content
+Get the plan
+No hidden charge
+
+Royal
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Multi-channel support: Web widget, WhatsApp, Telegram, WeChat, Facebook, Instagram
+Sync content from customer's website
+Upload up to 2000 pages of PDF content
+Get the plan
+No hidden charge
         宇航员是经过专业训练、能够在太空环境中执行任务的人。
         他们需要掌握航天器系统、实验操作、应急处置与长期驻留的生活技能。
         截至近年，已有来自多个国家的数百人进入太空并参与各类任务。

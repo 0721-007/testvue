@@ -4,6 +4,45 @@
     
     <div class="intro">
       <p>
+        
+Choose Your Tier
+Select the perfect plan for your business needs
+
+AI Enabler
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Channel support: Web widget
+Sync content from customer's website for
+Upload up to 10 pages of PDF content for knowledge base
+Get the plan
+No hidden charge
+
+Lite
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Channel support: Web widget, Telegram
+Sync content from customer's website
+Upload up to 100 pages of PDF content
+Get the plan
+No hidden charge
+
+Smart
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Multi-channel support: Web widget, WhatsApp, Telegram, Facebook, and Instagram
+Sync content from customer's website
+Upload up to 200 pages of PDF content
+Get the plan
+No hidden charge
+
+Royal
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Multi-channel support: Web widget, WhatsApp, Telegram, WeChat, Facebook, Instagram
+Sync content from customer's website
+Upload up to 2000 pages of PDF content
+Get the plan
+No hidden charge
         小行星是太阳系早期形成过程中遗留下来的岩质天体残余，通常没有明显大气层。
         大多数小行星分布在火星与木星之间的小行星带，也有一部分属于近地小行星。
         它们的尺度从碎石般大小到接近千公里直径不等。

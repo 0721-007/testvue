@@ -60,7 +60,46 @@
         <li><strong>吸积辐射：</strong>物质落入黑洞前被加热，会在 X 射线等波段强烈发光</li>
         <li><strong>恒星运动：</strong>通过恒星绕行轨道反推出中心致密天体质量</li>
         <li><strong>引力波：</strong>黑洞并合会产生引力波信号（LIGO/Virgo 等观测）</li>
-        <li><strong>甚长基线干涉：</strong>事件视界望远镜（EHT）实现了“看见”黑洞阴影</li>
+        <li><strong>甚长基线干涉：</strong>事件视界望远镜（EHT）实现了“看见”黑洞阴影
+        
+Choose Your Tier
+Select the perfect plan for your business needs
+
+AI Enabler
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Channel support: Web widget
+Sync content from customer's website for
+Upload up to 10 pages of PDF content for knowledge base
+Get the plan
+No hidden charge
+
+Lite
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Channel support: Web widget, Telegram
+Sync content from customer's website
+Upload up to 100 pages of PDF content
+Get the plan
+No hidden charge
+
+Smart
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Multi-channel support: Web widget, WhatsApp, Telegram, Facebook, and Instagram
+Sync content from customer's website
+Upload up to 200 pages of PDF content
+Get the plan
+No hidden charge
+
+Royal
+Unlimited tokens for AI interactions
+Unlimited lead generations
+Multi-channel support: Web widget, WhatsApp, Telegram, WeChat, Facebook, Instagram
+Sync content from customer's website
+Upload up to 2000 pages of PDF content
+Get the plan
+No hidden charge</li>
       </ul>
     </div>
   </div>
